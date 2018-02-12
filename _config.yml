@@ -1,0 +1,5 @@
+title: Create Software Fdn.
+description: Website with documentation and information about open source software maintained by the Creative Software Foundation.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal

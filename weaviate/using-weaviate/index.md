@@ -49,9 +49,9 @@ curl -X GET -H "X-API-KEY: [[apiKey]]" -H "X-API-TOKEN: [[apiKey]]" "https://loc
 
 Weaviate can be accessed directly through the RESTful API's. This is handy to create or update single things or actions. In case you want to crawl the graph, it is advised to use the GraphQL endpoint.
 
-A complete overview of the RESTful API endpoints can be found [here](#) a Swagger document is available here[here](https://github.com/creativesoftwarefdn/weaviate/tree/master/swagger).
+A complete overview of the RESTful API endpoints can be found [here](#), a Swagger document is available [here](https://github.com/creativesoftwarefdn/weaviate/tree/master/swagger).
 
-In the examples directory, you can find [RESTful API examples](#) based on the demo dataset.
+In the [examples](/weaviate/examples) directory, you can find [RESTful API examples](#) based on the demo dataset.
 
 ## Using GraphQL to explore Weaviate
 

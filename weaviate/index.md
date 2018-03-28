@@ -33,7 +33,7 @@ Weaviate is a decentralized, Semantic Graphql, RESTful Web of Things platform. W
         - [Run as deamon](#)
     - [Enable MQTT server](/weaviate/MQTT)
 - [Examples](/weaviate/examples)
-    - [Setting up the demo dataset](#)
+    - [Setting up the demo dataset](/weaviate/examples/setting-up-the-demo-dataset)
 - [Dataflow](/weaviate/dataflow)
 - [Create a Database Connector](/weaviate/create-a-database-connector)
 - [Tools](/weaviate/tools)

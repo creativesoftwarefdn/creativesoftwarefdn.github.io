@@ -30,7 +30,7 @@ There are several ways to run Weaviate.
 Download Nightly Build
 
 ```
-$ curl -o weaviate_bin https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_$(echo `uname`|tr '[:upper:]' '[:lower:]')_amd64.zip
+$ curl -o weaviate_bin https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_$(echo `uname`|tr '[:upper:]' '[:lower:]')_amd64.zip
 $ chmod +x weaviate_bin
 ```
 
@@ -38,21 +38,21 @@ Download Nightly Builds
 
 | OS and Architecture
 | -------------------
-| [weaviate_nightly_darwin_386.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_darwin_386.zip)
-| [weaviate_nightly_darwin_amd64.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_darwin_amd64.zip)
-| [weaviate_nightly_linux_386.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_386.zip)
-| [weaviate_nightly_linux_amd64.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_amd64.zip)
-| [weaviate_nightly_linux_arm.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_arm.zip)
-| [weaviate_nightly_linux_mips.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_mips.zip)
-| [weaviate_nightly_linux_mips64.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_mips64.zip)
-| [weaviate_nightly_linux_mips64le.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_mips64le.zip)
-| [weaviate_nightly_linux_mipsle.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_mipsle.zip)
-| [weaviate_nightly_linux_ppc64.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_ppc64.zip)
-| [weaviate_nightly_linux_ppc64le.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_linux_ppc64le.zip)
-| [weaviate_nightly_windows_386.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_windows_386.zip)
-| [weaviate_nightly_windows_amd64.zip](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_windows_amd64.zip)
+| [weaviate_nightly_darwin_386.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_darwin_386.zip)
+| [weaviate_nightly_darwin_amd64.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_darwin_amd64.zip)
+| [weaviate_nightly_linux_386.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_386.zip)
+| [weaviate_nightly_linux_amd64.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_amd64.zip)
+| [weaviate_nightly_linux_arm.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_arm.zip)
+| [weaviate_nightly_linux_mips.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_mips.zip)
+| [weaviate_nightly_linux_mips64.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_mips64.zip)
+| [weaviate_nightly_linux_mips64le.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_mips64le.zip)
+| [weaviate_nightly_linux_mipsle.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_mipsle.zip)
+| [weaviate_nightly_linux_ppc64.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_ppc64.zip)
+| [weaviate_nightly_linux_ppc64le.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_linux_ppc64le.zip)
+| [weaviate_nightly_windows_386.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_windows_386.zip)
+| [weaviate_nightly_windows_amd64.zip](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_windows_amd64.zip)
 
-[Checksum file](https://storage.cloud.google.com/weaviate-dist/nightly/weaviate_nightly_checksums.txt).
+[Checksum file](https://storage.cloud.google.com/weaviate-dist/releases/nightly/weaviate_nightly_checksums.txt).
 
 #### Compile from Source
 
